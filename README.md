@@ -2,4 +2,5 @@
 
 meu nome é Lavinea emanuelly
 
-estou usando o [alura](https://alura.com.br)
+◉estou usando o [alura](https://alura.com.br)
+◉###voc
